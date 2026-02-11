@@ -5,22 +5,21 @@
 		"username": "巷九凇"
 	},
 	"theme": {
-		"colorBrand": "#c428bf",
+		"colorBrand": "#ff4db4",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#FCC841",
+		"colorBrandSecondary": "#fc417f",
 		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
 		"colorCard": "#ffffff66",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#ef6a9b",
+		"#0464A9",
+		"#8936FB",
+		"#10C0F2",
+		"#081F84"
 	],
 	"artImages": [
 		{
