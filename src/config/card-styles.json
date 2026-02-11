@@ -29,7 +29,7 @@
 		"height": 257,
 		"order": 5,
 		"offsetX": 216,
-		"offsetY": -295,
+		"offsetY": -289,
 		"enabled": true
 	},
 	"musicCard": {
@@ -69,8 +69,8 @@
 		"height": 50,
 		"width": 177,
 		"order": 8,
-		"offsetX": -453,
-		"offsetY": 175,
+		"offsetX": -458,
+		"offsetY": 189,
 		"enabled": true
 	},
 	"navCard": {
