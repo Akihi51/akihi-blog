@@ -167,7 +167,7 @@ export default function Page() {
 						</>
 					)}
 
-					<div className='mt-8 flex items-center justify-center gap-6'>
+					{/* <div className='mt-8 flex items-center justify-center gap-6'>
 						<motion.a
 							href='https://github.com/YYsuni/2025-blog-public'
 							target='_blank'
@@ -180,7 +180,7 @@ export default function Page() {
 						</motion.a>
 
 						<LikeButton slug='open-source' delay={0} />
-					</div>
+					</div> */}
 				</div>
 			</div>
 
