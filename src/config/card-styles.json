@@ -37,16 +37,16 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 245,
-		"offsetY": 159,
+		"offsetX": -139,
+		"offsetY": 177,
 		"enabled": true
 	},
 	"socialButtons": {
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -188,
-		"offsetY": 164,
+		"offsetX": 90,
+		"offsetY": 184,
 		"enabled": true
 	},
 	"shareCard": {
@@ -67,10 +67,10 @@
 	},
 	"writeButtons": {
 		"height": 50,
-		"width": 178,
+		"width": 177,
 		"order": 8,
-		"offsetX": -465,
-		"offsetY": 164,
+		"offsetX": -453,
+		"offsetY": 175,
 		"enabled": true
 	},
 	"navCard": {
@@ -85,8 +85,8 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": -124,
-		"offsetY": 161,
+		"offsetX": 482,
+		"offsetY": 184,
 		"enabled": true
 	},
 	"hatCard": {
